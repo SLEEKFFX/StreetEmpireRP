@@ -1,5 +1,3 @@
-Perfect! ✅ I've created a comprehensive README.md file for Street Empire RP!
-
 ```markdown
 # 🎮 STREET EMPIRE RP - WhatsApp GTA Game
 
@@ -66,22 +64,7 @@ Perfect! ✅ I've created a comprehensive README.md file for Street Empire RP!
 ## 📸 Screenshots
 
 ### Main Menu
-```
-╔════════════════════════════════╗
-║  🎮 WHATSAPP GTA GAME - MENU  ║
-╚════════════════════════════════╝
 
-1️⃣ .profile - View your profile
-2️⃣ .business - Manage businesses
-3️⃣ .heist - Start heists/missions
-4️⃣ .vehicle - Buy/customize vehicles
-5️⃣ .bank - Banking operations
-6️⃣ .gamble - Gambling games
-7️⃣ .race - Racing games
-8️⃣ .inventory - Check inventory
-9️⃣ .transfer - Send money to player
-🔟 .help - Detailed commands
-```
 
 ### Player Profile
 ```
@@ -94,7 +77,7 @@ Perfect! ✅ I've created a comprehensive README.md file for Street Empire RP!
 🏦 Bank: $5,000,000
 💵 Total: $7,500,000
 
-🎖️ ROLE: Captain
+🎖️ ROLE: Shot Caller
 ⭐ Level: 25
 📈 Experience: 2,500
 
@@ -103,6 +86,8 @@ Perfect! ✅ I've created a comprehensive README.md file for Street Empire RP!
   • Missions Done: 120
   • Races Won: 78
   • Money Earned: $50,000,000
+  • Money Lost: $20,000,000
+  • Times busted: 11
 ```
 
 ---
