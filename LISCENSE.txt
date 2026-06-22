@@ -1,0 +1,61 @@
+MIT License
+
+Copyright (c) 2026 SLEEKYODADDY & EXODIAL
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+ADDITIONAL TERMS OF USE:
+
+1. CREDITS:
+   - You must maintain all credit notices to SLEEKYODADDY & EXODIAL
+   - Do not remove or modify attribution in code or UI
+   - Include "Developed by SLEEKYODADDY & EXODIAL" in any distribution
+
+2. COMMERCIAL USE:
+   - This software is for personal/educational use only
+   - Commercial use, selling, or profiting is strictly prohibited
+   - If you wish to commercialize, contact developers for licensing
+
+3. MODIFICATIONS:
+   - You may modify the code for personal use
+   - Modifications must remain private (not distributed)
+   - Share improvements with original developers
+
+4. DISTRIBUTION:
+   - You may not distribute modified versions without permission
+   - You may not remove or hide the open-source license
+   - You must include original LICENSE file
+
+5. WARRANTY DISCLAIMER:
+   - Software is provided "AS IS" without any warranty
+   - No liability for game balance, exploits, or bugs
+   - Users play at their own responsibility
+
+6. GAMEPLAY TERMS:
+   - All in-game currency is virtual and has no real value
+   - No gambling involves real money
+   - This is purely for entertainment only
+
+Contact: 
+- SLEEKYODADDY: +2348131686152
+- EXODIAL: +2348141759474
+
+For licensing inquiries or commercial use, contact the developers.
