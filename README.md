@@ -3,7 +3,7 @@
 
 > A fully-featured GTA Online-style text-based game on WhatsApp using Node.js and Baileys API
 
-![Version](https://img.shields.io/badge/version-1.0-blue.svg)
+![Version](https://img.shields.io/badge/version-7.1-blue.svg)
 ![Status](https://img.shields.io/badge/status-Active-green.svg)
 ![Platform](https://img.shields.io/badge/platform-WhatsApp-25D366.svg)
 ![Node](https://img.shields.io/badge/node-v14+-green.svg)
